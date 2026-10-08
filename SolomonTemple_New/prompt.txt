@@ -1,0 +1,11 @@
+build HD image, 40cm on 40cm
+instructions:
+- Style: image MUST have the same style of the uploaded images ( images: pic11.png,pic22.png,pic33.png,pic44.png,pic55.png,pic66.png,pic77.png) and in happy colors 
+- Solomon's Temple can be found in RealTemple.png
+- add Solomon's Temple at the middle of the image
+- add sun at the top of the image ( like in pic11 top right )
+- add 30 small houses
+- 30 small people will look from both side of the temple to the temple and will raise their hands to the temple, they will stand in random order
+- if you have empty places - add things from style there
+- please don't add text
+- NEVER add islamic symbols or בתים עם כיפות

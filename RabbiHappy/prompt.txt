@@ -1,0 +1,8 @@
+build HD image, 40cm on 40cm
+instructions:
+- Style: image MUST have the same style of the uploaded images ( images: pic11.png,pic22.png,pic33.png,pic44.png,pic55.png,pic66.png,pic77.png) and in happy colors 
+- base image : please use the RabbiHappy1.jpg as the base image and paint it in the style above.please remove microphones. please don't make it too much realistic.
+- if you add כיפת הסלע replace it with Solomon Temple ( can be found in pic77.jpg )
+- if you have empty places - add things from style there
+- please don't add text
+- NEVER add islamic symbols or בתים עם כיפות

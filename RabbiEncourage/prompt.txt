@@ -1,0 +1,7 @@
+build HD image, 40cm on 40cm
+instructions:
+- Style: image MUST have the same style of the uploaded images ( images: pic11.png,pic22.png,pic33.png,pic44.png,pic55.png,pic66.png,pic77.png) and in happy colors 
+- please use the RabbiEncourage1.jpg as the base image and paint it in the style above.
+- if you add כיפת הסלע replace it with Solomon Temple ( can be found in pic77.jpg )
+- make the person in RabbiEncourage1.jpg smiling 
+- if you have empty places - add things from style there

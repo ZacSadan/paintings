@@ -1,0 +1,36 @@
+build HD image, wide-angle/landscape/panoramic, aspect ratio 16:9
+instructions:
+- image MUST have the same style of the uploaded images and in very happy colors
+- add Solomon's Temple at the middle of the image
+- Solomon's Temple can be found in pic11 cemter right ( nicest ! )
+- Solomon's Temple can be found in pic77 at the top left
+- Solomon's Temple can be found in pic66 top
+- please verify that Solomon's Temple looks like pic11
+- please remove any other buildings except Solomon's Temple
+- add sun at the top of the image ( like in pic11 top right )
+- add 30 small houses
+- 30 small people will look from both side of the temple to the temple and will raise their hands to the temple, they will stand in random order
+
+---------------------------------------------------------------------
+build HD image, wide-angle/landscape/panoramic, aspect ratio 16:9
+image must have the same style of the uploaded images
+
+- Solomon's Temple can be found in pic11 below the sun ( not the 2 circle buildings ), please take it EXACTLY the same
+- Solomon's Temple will be in the middle of image
+- please remove any other buildings except Solomon's Temple
+- sun will be similar to the sun in pic11
+- add small houses like in the of top pic11 and pic33
+- small people ( like in pic55 ) will look from both side of the temple to the temple and will raise their hands to the temple
+
+-------------------------------------------------------
+
+=============
+NO 16:9 yet ...
+=============
+
+Create an HD image (16:9 aspect ratio) in the artistic style of the provided examples. The central focus is Solomon's Temple, positioned prominently in the middle of the scene. The sun, similar to the one in Image 1, should be visible. Surround the temple with small, scattered houses, drawing inspiration from the village layouts in Image 1 and Image 3. Include small figures, similar to those in Image 5, facing the temple from both sides with raised hands, appearing to be in reverence. Ensure no other large buildings are present besides Solomon's Temple.
+
+Generate an HD image (16:9 aspect ratio) that faithfully replicates the unique, colorful, and illustrative painting style evident in the uploaded images. The primary subject is Solomon's Temple, centrally placed. The circular, radiant sun from Image 1 should be clearly visible in the sky. The landscape should feature numerous small, quaint houses, designed in the style of the background villages in Image 1 and Image 3. Small, expressive figures, resembling those in Image 5, should be depicted on both sides of the temple, looking towards it with hands uplifted in a gesture of awe or prayer. Ensure that Solomon's Temple is the sole prominent architectural structure.
+
+Render an HD image (16:9 aspect ratio) with the distinct, vibrant, and folk-art-like aesthetic observed in the provided artwork. At the heart of the composition, feature a majestic Solomon's Temple. Above it, illuminate the sky with a stylized sun, mirroring the celestial body in Image 1. Populate the rolling hills with a multitude of charming, small houses, echoing the architectural style and density seen in Image 1 and Image 3. Integrate small, gesticulating people, akin to those in Image 5, positioned on either side of the temple, gazing towards it with arms raised in devotion. Exclude any other significant structures to maintain focus on the temple.
+

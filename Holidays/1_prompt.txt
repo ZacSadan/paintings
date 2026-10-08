@@ -1,0 +1,18 @@
+build HD image, 40cm on 40cm
+Please create square HD image with motives from:
+ראש השנה - a man תוקע בשופר
+יום כיפור
+סוכות 
+הושענא רבה
+שמחת תורה
+
+instructions:
+- Style: image MUST have the same style of the uploaded images ( images: pic11.png,pic22.png,pic33.png,pic44.png,pic55.png,pic66.png,pic77.png) and in happy colors 
+- if you add כיפת הסלע replace it with Solomon Temple ( can be found in pic77.jpg )
+- if you have empty places - add things from style there
+- please don't add text
+- NEVER add islamic symbols or בתים עם כיפות
+
+נשים/בחורות לא רוקדות עם גברים/בחורים
+גברים/בחורים עם כיפה סרוגה , לא כיפה שחורה או שטריימל
+
